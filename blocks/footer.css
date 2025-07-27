@@ -1,12 +1,12 @@
 .footer {
     display: flex;
     justify-content: center;
+    flex-wrap: nowrap;
     width: 100%;
     margin: 0 auto;
     padding-bottom: 20px;
     padding-top: 92px;
     align-items: center;
-    flex-wrap: nowrap;
     text-align: center;
 }
 .footer__copyright{
