@@ -1,4 +1,4 @@
-button {
+button, .places__button {
     grid-area: button;
     max-width: 90%;
     height: 48px;

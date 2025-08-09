@@ -5,6 +5,6 @@
 @import url("../blocks/intro.css");
 @import url("../blocks/header.css");
 @import url("../blocks/footer.css");
-@import url("../blocks/photo-grid.css");
+@import url("../blocks/photo__grid.css");
 @import url("../blocks/places.css");
-@import url("../blocks/button.css");
+@import url("../blocks/places__button.css");
